@@ -18,8 +18,12 @@ body {
   font-family: verdana;
   font-size: 100px;
   font-weight: 800;
-
   text-align: center;
+}
+
+.error_style {
+  color: red;
+  font-size: 100px;
 }
 
 .btn_wrap {
